@@ -37,3 +37,4 @@ Services requires root:
   * mediaserver depends on /data/nvram folder access, unable to do voice calls from 'media' user (default user 'media')
 # device_walton_RX2
 # device_walton_RX2
+# device_walton_RX2
