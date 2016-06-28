@@ -38,3 +38,4 @@ Services requires root:
 # device_walton_RX2
 # device_walton_RX2
 # device_walton_RX2
+# device_walton_RX2
